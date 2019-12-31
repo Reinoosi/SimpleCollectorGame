@@ -1,0 +1,10 @@
+
+Tein t‰ll‰sen yksinkertasen collector-pelin t‰m‰n seuraavan tutoriaalin mukaan: https://www.youtube.com/watch?v=X4gMS3u1ACk
+
+TwinStickShooterissa tehtiin tosi paljon blueprinteill‰ ja t‰ss‰ puolestaan pelk‰st‰‰n C++. T‰m‰ oli hyv‰ opetus siit‰, miten asioita saa tapahtumaan UE4 Enginess‰ pelk‰st‰‰n C++ - koodilla. 
+
+
+
+T‰ss‰ on linkki youtubeen: https://www.youtube.com/watch?v=r8TlIDszNl0
+
+Pahoittelut videolla kuuluvasta kohinasta. Laitoin kaikki ‰‰net pois koneelta, kun nauhoitin videota. Silti jostain syyst‰ kuuluu tosi ‰rsytt‰v‰‰ kohinaa.
