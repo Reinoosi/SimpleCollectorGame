@@ -8,3 +8,7 @@ TwinStickShooterissa tehtiin tosi paljon blueprinteill‰ ja t‰ss‰ puolestaan pelk
 T‰ss‰ on linkki youtubeen: https://www.youtube.com/watch?v=r8TlIDszNl0
 
 Pahoittelut videolla kuuluvasta kohinasta. Laitoin kaikki ‰‰net pois koneelta, kun nauhoitin videota. Silti jostain syyst‰ kuuluu tosi ‰rsytt‰v‰‰ kohinaa.
+
+
+
+T‰ss‰ on linkki GitHubiin: https://github.com/Reinoosi/SimpleCollectorGame
